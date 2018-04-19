@@ -1,0 +1,7 @@
+2018/4/12
+・Apatch、MySQLサーバ
+・pyenv上に python3.6/Anaconda3.5 
+・
+
+
+
