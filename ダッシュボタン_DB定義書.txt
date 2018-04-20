@@ -1,22 +1,26 @@
-①ボタンの観点
-・ボタンの色
-・モノのid
+①ボタンに割り当てられている商品情報
+→button_info
+・ボタンの色　button_color
+・アイテムid　item_id
 
 
-②メールの送り先
-・TAの名前
-・メールアドレス
+②メールの送り先情報
+→ta_info
+・TAの名前　ta_name
+・メールアドレス　ta_email
 
 
-③履歴の観点
-・モノのid
-・イベント履歴
-・注文日時
-・履歴用のid
+③注文履歴
+→order_history
+・モノのid　item_id
+・イベント履歴　event_name
+・注文日時　event_data
+・履歴用のid　history_id
 
 
-④モノの観点
-・id
-・備品名
-・場所
-・発注状態
+④商品情報
+→item_info
+・アイテムid　item_id
+・備品名　item_name
+・場所　item_place
+・発注状態　order_status
